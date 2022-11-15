@@ -1,0 +1,12 @@
+# Blender MTL File: 'ToyTunnel.blend'
+# Material Count: 1
+
+newmtl Material
+Ns 96.078431
+Ka 0.697987 0.697987 0.697987
+Kd 0.710553 0.706218 0.015362
+Ks 0.238255 0.238255 0.238255
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
